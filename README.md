@@ -1,0 +1,2 @@
+About FairNow
+FairNow is AI governance software that simplifies and centralizes AI risk management at scale. FairNow’s AI governance platform enables organizations to centralize their AI inventory, assess risk, manage vendor AI systems, and ensure continuous compliance with global regulations. Key features include automated bias detection, regulatory tracking, role management, and automated documentation to streamline audits and accountability.
